@@ -1,0 +1,603 @@
+.main{
+    height: 900px;
+    width: 100%;
+
+}
+.main_c{
+    position: relative;
+    width: 1200px;
+    height: 900px;
+    margin: 0 auto;
+    
+    margin-top: 100px;
+}
+.main1{
+    position: relative;
+    height: 300px;
+    width: 100%;
+    
+}
+.main1 .z{
+    position: absolute;
+    
+    width: 90px;
+    height: 43px;
+    font-weight: bolder;
+    border:  1px solid #c2c7cc;
+    text-align: center;
+    line-height: 43px;
+    top: 85px;
+}
+.main1:hover .z{
+    background-color: #5ad0dc;
+    color: #ffffff;
+}
+.main1 .x{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 115px;
+    background: url(../img/tu1.jpg) no-repeat;
+}
+.main1 .x .hm{
+    display: none;
+    width: 325px;
+    height: 200px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main1 .x .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main1 .x:hover .k,
+.main1 .x:hover .hm{
+    display: block;
+}
+
+.main1 .x .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main1 .x .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main1 .x .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main1 .c{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 510px;
+    background: url(../img/tu2.jpg) no-repeat;
+}
+.main1 .c .hm{
+    display: none;
+    width: 310px;
+    height: 200px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main1 .c .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main1 .c:hover .k,
+.main1 .c:hover .hm{
+    display: block;
+}
+.main1 .c .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main1 .c .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main1 .c .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main1 .v{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    right: 0;
+    background: url(../img/tu3.jpg) no-repeat;
+}
+.main1 .v .hm{
+    display: none;
+    width: 308px;
+    height: 204px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main1 .v .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main1 .v:hover .k,
+.main1 .v:hover .hm{
+    display: block;
+}
+.main1 .v .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main1 .v .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main1 .v .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main2{
+    position: relative;
+    height: 300px;
+    width: 100%;
+    
+}
+.main2 .z{
+    position: absolute;
+    width: 90px;
+    height: 43px;
+    border: 1px solid #c2c7cc;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 43px;
+    top: 85px;
+}
+.main2:hover .z{
+    background-color: #5ad0dc;
+    color: #ffffff;
+}
+.main2 .x{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 115px;
+    background: url(../img/tu4.jpg) no-repeat;
+}
+.main2 .x .hm{
+    display: none;
+    width: 325px;
+    height: 192px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main2 .x .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main2 .x:hover .k,
+.main2 .x:hover .hm{
+    display: block;
+}
+.main2 .x .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main2 .x .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main2 .x .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main2 .c{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 510px;
+    background: url(../img/tu5.jpg) no-repeat;
+}
+.main2 .c .hm{
+    display: none;
+    width: 308px;
+    height: 194px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main2 .c .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main2 .c:hover .k,
+.main2 .c:hover .hm{
+    display: block;
+}
+.main2 .c .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main2 .c .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main2 .c .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main2 .v{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    right: 0;
+    background: url(../img/tu6.jpg) no-repeat;
+}
+.main2 .v .hm{
+    display: none;
+    width: 304px;
+    height: 195px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main2 .v .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main2 .v:hover .k,
+.main2 .v:hover .hm{
+    display: block;
+}
+.main2 .v .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main2 .v .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main2 .v .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main3{
+    position: relative;
+    height: 300px;
+    width: 100%;
+    
+}
+.main3 .z{
+    position: absolute;
+    width: 90px;
+    height: 43px;
+    border: 1px solid #c2c7cc;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 43px;
+    top: 85px;
+}
+.main3:hover .z{
+    background-color: #5ad0dc;
+    color: #ffffff;
+}
+.main3 .x{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 115px;
+    background: url(../img/tu7.jpg) no-repeat;
+}
+.main3 .x .hm{
+    display: none;
+    width: 325px;
+    height: 191px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main3 .x .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main3 .x:hover .k,
+.main3 .x:hover .hm{
+    display: block;
+}
+.main3 .x .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main3 .x .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main3 .x .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main3 .c{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    left: 510px;
+    background: url(../img/tu8.jpg) no-repeat;
+}
+.main3 .c .hm{
+    display: none;
+    width: 308px;
+    height: 191px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main3 .c .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main3 .c:hover .k,
+.main3 .c:hover .hm{
+    display: block;
+}
+.main3 .c .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main3 .c .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main3 .c .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main3 .v{
+    position: absolute;
+    display: block;
+    width: 325px;
+    height: 300px;
+    right: 0;
+    background: url(../img/tu9.jpg) no-repeat;
+}
+.main3 .v .hm{
+    display: none;
+    width: 307px;
+    height: 192px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.main3 .v .k{
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 130px;
+    border: 1px solid #04e4f8;
+    top: 35px;
+    left: 35px;
+
+}
+.main3 .v:hover .k,
+.main3 .v:hover .hm{
+    display: block;
+}
+.main3 .v .q{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 16px;
+    font-weight: bolder;
+    left: 0;
+    top: 215px;
+}
+.main3 .v .w{
+    position: absolute;
+    display: block;
+    color: #434545;
+    font-size: 12px;
+    left: 0;
+    top: 235px;
+}
+.main3 .v .e{
+    display: block;
+    position: absolute;
+    background-color: #7e8080;
+    height: 1px;
+    width: 300px;
+    left: 0;
+    top: 275px;
+}
+.main4{
+    position: absolute;
+    width: 300px;
+    text-align: center;
+    margin:0 auto;
+    left: 50%;
+    margin-left: -100px;
+}
+.main4 a{
+    color: #434545;
+    margin-right: 5px;
+    font-size: 18px;
+}
+#p{
+    color: #c1f5fb;
+}
+.main4 .l{
+    display: inline-block;
+    width: 90px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid #c2c7cc;
+    line-height: 40px;
+}

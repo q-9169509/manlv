@@ -1,0 +1,721 @@
+
+.main_c{
+    position: relative;
+    width: 1200px;
+    height: 1100px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+.main_c .t{
+    position: absolute;
+    display: block;
+    font-size: 24px;
+    font-weight: bolder;
+    color: #3b3b3b;
+}
+.main_c .tt{
+    position: absolute;
+    display: block;
+    font-size: 14px;
+    color: #c7c7c7;
+    top: 30px;
+}
+
+.mainc1,
+.mainc2,
+.mainc3,
+.mainc4,
+.mainc5,
+.mainc6{
+    /* background-color: #000; */
+    position: relative;
+    width: 550px;
+    height: 250px;
+    float: left;
+}
+.mainc1,
+.mainc2,{
+    top: 110px;
+}
+.mainc3,
+.mainc4{
+    top: 70px;
+}
+.mainc5,
+.mainc6{
+    top: 140px;
+}
+.mainc1 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu1.jpg) no-repeat;
+}
+.mainc1 .hm{
+    display: none;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc1 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc1:hover .k,
+.mainc1:hover .hm{
+    display: block;
+}
+.mainc1 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc1 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc1 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc1 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc1 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc1 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc1 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc1 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
+.mainc2 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu2.jpg) no-repeat;
+}
+.mainc2 .hm{
+    display: none;
+    width: 339px;
+    height: 251px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc2 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc2:hover .k,
+.mainc2:hover .hm{
+    display: block;
+}
+.mainc2 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc2 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc2 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc2 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc2 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc2 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc2 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc2 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
+.mainc3 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu3.jpg) no-repeat;
+}
+.mainc3 .hm{
+    display: none;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc3 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc3:hover .k,
+.mainc3:hover .hm{
+    display: block;
+}
+.mainc3 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc3 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc3 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc3 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc3 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc3 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc3 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc3 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
+.mainc4 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu4.jpg) no-repeat;
+}
+.mainc4 .hm{
+    display: none;
+    width: 339px;
+    height: 250px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc4 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc4:hover .k,
+.mainc4:hover .hm{
+    display: block;
+}
+.mainc4 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc4 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc4 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc4 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc4 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc4 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc4 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc4 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
+.mainc5 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu5.jpg) no-repeat;
+}
+.mainc5 .hm{
+    display: none;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc5 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc5:hover .k,
+.mainc5:hover .hm{
+    display: block;
+}
+.mainc5 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc5 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc5 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc5 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc5 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc5 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc5 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc5 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
+.mainc6 .c1tu{
+    position: absolute;
+    display: block;
+    width: 350px;
+    height: 249px;
+    background: url(../img/tu6.jpg) no-repeat;
+}
+.mainc6 .hm{
+    display: none;
+    width: 348px;
+    height: 250px;
+    position: absolute;
+    background: url(../img/tut.jpg) no-repeat;
+    opacity: 0.3;
+}
+.mainc6 .k{
+    display: none;
+    position: absolute;
+    width: 305px;
+    height: 185px;
+    border: 2px solid #04e4f8;
+    top: 30px;
+    left: 20px;
+}
+.mainc6:hover .k,
+.mainc6:hover .hm{
+    display: block;
+}
+.mainc6 .c1z{
+    display: block;
+    position: absolute;
+    color: #3a3a3a;
+    font-size: 16px;
+    font-weight: bolder;
+    top: 30px;
+    left: 375px;
+}
+.mainc6 .c1x{
+    display: block;
+    position: absolute;
+    color: #727171;
+    font-size: 14px;
+    font-weight: bolder;
+    top: 50px;
+    left: 375px;
+}
+.mainc6 .c1c{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 375px;
+    border: 1px solid #b5b5b5;
+}
+.mainc6 .c1v{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 420px;
+    border: 1px solid #b5b5b5;
+}
+.mainc6 .c1b{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    color: #474646;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    top: 70px;
+    left: 465px;
+    border: 1px solid #b5b5b5;
+}
+.mainc6 .c1n{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 100px;
+    left: 375px;
+}
+.mainc6 .c1m{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 75px;
+    left: 375px;
+}
+.mainc6 .c1a{
+    display: block;
+    position: absolute;
+    font-size: 14px;
+    
+    color: #727171;
+    bottom: 50px;
+    left: 375px;
+}
